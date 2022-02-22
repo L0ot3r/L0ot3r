@@ -1,9 +1,10 @@
-### En attendant 👋
+## En attendant 👋
 
 Aspirant développeur web et mobile,<br />
 Je développe en ce moment même mes compétences. 😄
 
 Mon portfolio est en construction ... 
+
 <hr />
 
 ## Prestaverse
