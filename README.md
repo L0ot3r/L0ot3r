@@ -9,7 +9,7 @@ Mon portfolio est en construction ...
 
 ## Prestaverse
 
-Prestaverse a été créé avec pour objectifs de coupler ma passion pour les technologies et le code,<br /> 
+Prestaverse a été créé avec pour objectif de coupler ma passion pour les technologies et le code,<br /> 
 qui me fascinent depuis ma découverte de l'informatique dans mon enfance,<br /> 
 à mon envie de fournir le service dont vous avez besoin pour le développement de votre activité.
 
