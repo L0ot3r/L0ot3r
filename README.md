@@ -4,6 +4,7 @@ Aspirant développeur web et mobile,<br />
 Je développe en ce moment même mes compétences. 😄
 
 Mon portfolio est en construction ... 
+<hr />
 
 <!--
 **L0ot3r/L0ot3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
