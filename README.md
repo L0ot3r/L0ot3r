@@ -3,14 +3,21 @@
 Aspirant développeur web et mobile,<br />
 Je développe en ce moment même mes compétences. 😄
 
-Mon portfolio est en construction ... 
+Actuellement je suis les cours de:
+<ul>
+  <li>L'école du web</li>
+  <li>Javascript Mastery</li>
+  <li>OpenClassroom</li>
+</ul>
+
+Mon **Portfolio** est en construction ... *(Le temps de rassembler les différents projets effectués au fil de ma formation)*
 
 <hr />
 
-## Prestaverse
+## 💬 `Prestaverse`
 
 Prestaverse a été créé avec pour objectif de coupler ma passion pour les technologies et le code,<br /> 
-qui me fascinent depuis ma découverte de l'informatique dans mon enfance,<br /> 
+*qui me fascinent depuis ma découverte de l'informatique dans mon enfance*,<br /> 
 à mon envie de fournir le service dont vous avez besoin pour le développement de votre activité.
 
 <!--
