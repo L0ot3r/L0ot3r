@@ -1,4 +1,4 @@
-## En attendant 👋
+# En ce qui me concerne 👋
 
 Aspirant développeur web et mobile,<br />
 Je développe en ce moment même mes compétences. 😄
